@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ndawinata
 - 👀 I’m interested in Information and Technology
-- 🌱 I’m currently learning React Native and Python Framework (Flask and Django)
+- 🌱 I’m currently learning React Native and Python Framework (Flask and Django), React Native, GO
 - 📫 How to reach me nanda.winata@gmail, nanda.winata@bmkg.go.id, and instagram @ndawinata
 
 <!---
